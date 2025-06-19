@@ -1,0 +1,776 @@
+title,company_name,location,via,description,salary,linkedin_link
+Sr Data Scientist- Personal Loans,SoFi,"New York, NY",LinkedIn,"posted_at: 8 hours ago | salary: 128K–240K a year | schedule_type: Full-time | health_insurance: True
+Employee Applicant Privacy Notice
+
+Who we are:
+
+Shape a brighter financial future with us.
+
+Together with our members, we’re changing the way people think about and interact with personal finance.
+
+We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. Join us to invest in yourself, your career, and the financial world.
+
+The role
+
+SoFi’s Credit team manages credit risk activities for our lending products (Student Loan Refinance, Private Student Loan, Personal Loan, Credit Card, and Mortgage) - including credit strategies/policies for new account origination and portfolio management, collections/recovery strategies and operations, and risk and operational data science and analytics. The team designs data-driven strategies to ensure the growth in lending is consistent with the company’s risk appetite and helps create the products and experiences that put our members’ interests first.
+
+The Credit Strategy Manager will work in the Credit team and have responsibilities to analyze and evaluate data to develop and propose value-added credit risk strategies and models for SoFi’s lending products, including Personal Loan, Student Loan Refinance, Private Student Loan, and Credit Card. The initial focus of the role will be on Personal Loan acquisition but the candidate may get opportunities to work on other lending products in the future.
+
+The candidate will be responsible for independently developing and implementing Personal Loan underwriting strategies that meet our risk appetite, monitoring and analyzing the risk trends within the portfolio to provide insights and recommendations for strategy enhancement opportunities. They will be part of the Credit team with 1LOD responsibilities.
+
+The Credit Strategy Manager will collaborate with cross-functional teams such as Business Units, Operations, Marketing, Finance, Capital Markets, Product, Engineering, Legal and Compliance. Use business knowledge and quantitative and analytical skills to drive revenue, control risk, and provide value to the company and consumers.
+
+The ideal candidate will possess a data-driven analytics background and the strategic acumen to direct a function that draws strategic insights from data using database and statistical analysis tools to inform decisions and support SoFi’s overarching strategic goals relative to loss prevention and profit optimization. They bring new ways of thinking, data sources, technologies, and capabilities to SoFi.
+
+What you’ll do:
+• Innovate… Bring your brightest ideas to building risk strategies. This means you will architect credit underwriting, pre-screen targeting, and risk tier assignment.
+• Data Driven… Your deep analysis will power the future of lending with an optimal real-time data ecosystem – including multi-product internal, bureau, third-party, and alternative data sources and uses.
+• Iterate, learn, innovate… We are all responsible for innovation and must embrace data-driven decisions.
+• Collaborate… Work collaboratively with business partners such as Business Units, Operations, Marketing, Finance, Legal and Compliance to deliver successful business results. Partner closely with implementation teams to accurately deploy new strategies.
+• Control the Risk and Drive Performance Outcomes … Understand credit risk and develop approaches to mitigate loss and responsibly grow revenue. Monitor the performance of strategies and portfolios. Document and communicate results and escalate issues as necessary. Identify gaps/opportunities and drive actions.
+• Grow, Grow, Grow!… Be inspired by dynamic leaders and our rapidly growing business. We want YOU to be an inspired leader of tomorrow, so we are recruiting the best, brightest, and passionately quantitative team members.
+
+What you’ll need:
+• 5+ years of related experience
+• Business acumen and work experience in the consumer lending business (loans or credit cards)
+• Direct experience in the credit strategy analytical life cycle, including strategy and decision tree development, P&L, presentation, implementation validation, and post-implementation monitoring
+• Proven analytical skills in conducting sophisticated analysis using customer performance data, bureau attributes, and other 3rd party variables to solve business problems
+• Proficient skills in Excel, SQL and Python
+• A demonstrated ability to synthesize and communicate analysis to business partners and senior management
+• High motivation to drive results, eager to learn, and able to work collaboratively in a fluid environment
+• Knowledge/skills in analytical and modeling techniques such as decision trees, regression, logistic regression, test design
+• Preferred: Experience in developing credit strategies using innovative data sources such as cash flow or alternative data
+• Preferred: Advanced degree (Master’s or PhD) with a quantitative major such as Statistics, Mathematics, Engineering, or Computer Science
+
+Compensation And Benefits
+
+The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
+
+To view all of our comprehensive and competitive benefits, visit our Benefits at SoFi page!
+
+SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
+
+The Company hires the best qualified candidate for the job, without regard to protected characteristics.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+New York applicants: Notice of Employee Rights
+
+SoFi is committed to embracing diversity. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
+
+Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
+
+Internal Employees
+
+If you are a current employee, do not apply here - please navigate to our Internal Job Board in Greenhouse to apply to our open roles.",128K–240K a year,https://www.linkedin.com/jobs/view/sr-data-scientist-personal-loans-at-sofi-4252375268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Applied Sr Data Scientist - Fintech Foundation,The Grace Hopper Program at Fullstack Academy,"New York, NY",LinkedIn,"posted_at: 7 hours ago | schedule_type: Full-time | dental_coverage: True | paid_time_off: True | health_insurance: True
+About The Job
+
+Hopper is continually redefining how people travel, combining a best-in-class travel agency with a portfolio of proprietary fintech offerings that give our customers peace of mind when booking travel.
+
+More than 100M monthly active users are exposed to our products through our mobile app and a growing list of partners such as CapitalOne, Air Canada, and Spirit Airlines. With a real-time feed of 50B+ priced itineraries daily along with more than ten years of history and multiple external data sources, we have unparalleled insight about pricing and demand trends.
+
+This is a unique opportunity to join our growing Fintech Foundation team. We’re responsible for optimizing pricing for all ancillary products we sell, balancing customer demand with the financial risks we take on. We help our product teams deliver new fintech products to market faster, respond rapidly to changing market conditions, run continuous champion-challenger testing on product construction levers, and maintain our growing portfolio of pricing models across dozens of partners.
+
+As an applied data scientist you will play a key role in growing our fintech business through innovative pricing and product construction, operated at scale across dozens of partners.
+
+What Would Your Day-to-day Look Like
+• Collaborating with cross-functional product teams to build a detailed understanding of business requirements and product construction as it relates to pricing.
+• Data engineering to create appropriate datasets for analysis and modeling.
+• Implementing automated, reusable ML training pipelines
+• Creating and pushing models to production
+• Monitoring pricing models to identify weaknesses and opportunities
+• Running A/B tests on new data sources, improved algorithms, and different product levers.
+• Responding to ad hoc requests from our business partners to analyze historical performance and deep-dive into anomalies or diagnose the impact of external events.
+
+An Ideal Candidate Has
+• A BSc or MSc in a highly quantitative field like math, physics, statistics, or economics.
+• Two or more years experience applying data analysis and predictive modeling skills in a fast-paced business environment.
+• Excellent communication skills and creative problem solving ability.
+• Strong coding skills with SQL and Python.
+• A highly pragmatic approach that values business impact over statistical nuance.
+
+Perks And Benefits Of Working With Us
+• Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages.
+• Hopper covers 100% of the premiums for group insurance plan.
+• Hopper offers life, short term and long term disability coverage.
+• HSA that covers eligible medical and dental expenses.
+• All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere.
+• All employees have access to an RRSP plan with automatic pre-tax withdrawals per pay.
+• Please ask us about our very generous parental leave, much above industry standards!.
+• Unlimited PTO.
+• Carrot Cash travel stipend.
+• Access to co-working space on demand through FlexDesk AND Work-from-home stipend.
+• Entrepreneurial culture where pushing limits and taking risks is everyday business.
+• Open communication with management and company leadership.
+• Small, dynamic teams = massive impact.
+
+More About Hopper
+
+At Hopper, we are on a mission to become the leading travel platform globally – powering Hopper’s mobile app, website and our B2B business, HTS (Hopper Technology Solutions). By leveraging massive amounts of data and advanced machine learning algorithms, Hopper combines its world-class travel agency offering with proprietary fintech products to bring transparency, flexibility and savings to travelers globally. We have developed several unique fintech solutions that address everything from pricing volatility to trip disruptions – helping people travel better and save more on their trips.
+
+The Hopper platform serves hundreds of millions of travelers globally and continues to capture market share around the world. Ranked the third largest online travel agency in North America, the Hopper app has been downloaded over 120 million times and has become largely popular among younger travelers – with 70% of its users being Gen Z and millennials.
+
+While everyone knows us as the Gen Z and Millennial travel app, Hopper has evolved to become much more than that. In recent years, we’ve grown into a global travel agency and travel fintech provider that powers some of the world’s largest brands.
+
+Through HTS, our B2B division, the company supercharges its partners’ direct channels by integrating our fintech products on their sites or powering end-to-end travel portals. Today, our partners include leading travel brands like Capital One, Nubank, Air Canada and many more.
+
+Here are just a few stats that demonstrate the company’s recent growth:
+
+Hopper sells billion worth of travel and travel fintech every year. In 2023, over 1.3 billion trips were planned through the Hopper app and our HTS partnerships.
+
+Our fintech products – including Price Freeze, Flexibility for Any Reason and Flight Disruption Assistance – have exceptionally strong CSAT because the terms are always clear, and customers receive instant, no-questions-asked resolutions.
+
+Almost 30% of our app customers purchase at least one fintech product when making a booking; and consumers are 1.6x more likely to repurchase if they add fintech to their booking vs if they booked just travel.
+
+Given the success of its fintech products, Hopper launched a B2B initiative, HTS (Hopper Technology Solutions), which represents more than 50% of the business.
+
+Through HTS, any travel provider (airlines, hotels, banks, travel agencies, etc.) can integrate and seamlessly distribute Hopper’s fintech or travel inventory on their direct channels. As its first HTS partnership, the company partnered with Capital One to co-develop Capital One Travel, a new travel portal designed specifically for cardholders. Other HTS partners include Air Canada, Uber, CommBank, Nubank, Flair Airlines with many more in the pipeline.
+
+Featured in Apple’s Best of the App Store list of Essential Travel Apps in 2023 and recognized by the likes of Fast Company’s Most Innovative Companies, Hopper has been downloaded over 120 million times and continues to have millions of new installs each month. Hopper is now the #3 largest online travel agency in North America and 70% of our app customers are Gen-Z and millennials travelers.
+
+Hopper has raised over $750 million USD of private capital and is backed by some of the largest institutional investors and banks in the world. Hopper is primed to continue its acceleration as the world’s fastest-growing mobile-first travel marketplace.
+
+Come take off with us!",,https://www.linkedin.com/jobs/view/applied-sr-data-scientist-fintech-foundation-at-the-grace-hopper-program-at-fullstack-academy-4250730517?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Sr. Director Data Sciences,Early Warning®,"New York, NY",LinkedIn,"posted_at: 8 hours ago | salary: 220K–270K a year | schedule_type: Full-time | paid_time_off: True | dental_coverage: True | health_insurance: True
+At Early Warning, we’ve powered and protected the U.S. financial system for over thirty years with cutting-edge solutions like Zelle®, Paze℠, and so much more. As a trusted name in payments, we partner with thousands of institutions to increase access to financial services and protect transactions for hundreds of millions of consumers and small businesses.
+
+Positions located in Scottsdale, San Francisco, Chicago, or New York follow a hybrid work model to allow for a more collaborative working environment.
+
+Candidates responding to this posting must independently possess the eligibility to work in the United States, for any employer, at the date of hire. This position is ineligible for employment Visa sponsorship.
+
+Overall Summary
+
+The Sr Director of Data Sciences is responsible for building and developing a high performing team while supporting product delivery with insights and innovation.
+
+Essential Functions
+• Lead, grow and inspire a team of skilled analysts and data scientists ensuring they are successfully executing projects with the highest business impact
+• Lead the design, development, deployment, and maintenance of analytically derived models
+• Provide thought leadership internally within the enterprise and externally with financial institutions, partners, and industry associations by assessing industry trends and analytic technologies.
+• Drive collaboration and exercise influence cross-functionally across analytics teams, product management, engineering, and technology organizations to deliver high-quality products and capabilities
+• Lead budgeting and planning for team and resources as required
+• Present clear and actionable insights to stakeholders across varying levels, areas of expertise, and degrees of technical knowledge
+• Establish and maintain industry standard best practices and processes through all phases of the analytic development life cycle
+• Oversee documentation of analytic solutions, standard analytical procedures, and methodologies
+• Develop and present recommendations and POV on analytic environments and data strategy
+• Protect the integrity and confidentiality of systems and data
+• Convey responsiveness and competence when dealing with internal and external stakeholders
+• Partner with various functional areas to develop an understanding of fields to which statistical techniques can be applied effectively
+• Support the company's commitment to risk management and protecting the integrity and confidentiality of systems and data
+
+Minimum Qualifications
+• Bachelor’s Degree in Mathematics, Statistics, Computer Science, or related field
+• 15 or more years data analytics experience (or equivalent combination of education and experience)
+• 10 or more years efficient programming enabling manipulation and analysis of large data sets ideally with SQL, Python, R, or Scala
+• 10 or more years of professional experience, including the development of large-scale analytic solutions, leading high-performing analytics, or data science project teams
+• Demonstrated leadership experience and cross functional collaboration experience
+• Excellent interpersonal, oral, and written communication skills.
+• Excellent listening and execution skills
+• Background and drug screen
+
+The above job description is not intended to be an all-inclusive list of duties and standards of the position. Incumbents will follow instructions and perform other related duties as assigned by their supervisor.
+
+The Pay Scale For This Position In
+
+Phoenix, AZ in USD per year is: $220,000 - $240,000
+
+San Francisco, CA and New York, NY in USD per year is: $240,000 - $270,000
+
+This pay scale is subject to change and is not necessarily reflective of actual compensation that may be earned, nor a promise of any specific pay for any specific candidate, which is always dependent on legitimate factors considered at the time of job offer. Early Warning Services takes into consideration a variety of factors when determining a competitive salary offer, including, but not limited to, the job scope, market rates and geographic location of a position, candidate’s education, experience, training, and specialized skills or certification(s) in relation to the job requirements and compared with internal equity (peers). The business actively supports and reviews wage equity to ensure that pay decisions are not based on gender, race, national origin, or any other protected classes.
+
+Additionally, candidates are eligible for a discretionary bonus, and benefits.
+
+Physical Requirements
+
+Working conditions consist of a normal office environment. Work is primarily sedentary and requires extensive use of a computer and involves sitting for periods of approximately four hours. Work may require occasional standing, walking, kneeling, and reaching. Must be able to lift 10 pounds occasionally and/or negligible amount of force frequently. Requires visual acuity and dexterity to view, prepare, and manipulate documents and office equipment including personal computers. Requires the ability to communicate with internal and/or external customers.
+
+Employee must be able to perform essential functions and physical requirements of position with or without reasonable accommodation
+
+Some of the Ways We Prioritize Your Health and Happiness
+• Healthcare Coverage – Competitive medical (PPO/HDHP), dental, and vision plans as well as company contributions to your Health Savings Account (HSA) or pre-tax savings through flexible spending accounts (FSA) for commuting, health & dependent care expenses.
+• 401(k) Retirement Plan – Featuring a 100% Company Safe Harbor Match on your first 6% deferral immediately upon eligibility.
+• Paid Time Off – Unlimited Time Off for Exempt (salaried) employees, as well as generous PTO for Non-Exempt (hourly) employees, plus 11 paid company holidays and a paid volunteer day.
+• 12 weeks of Paid Parental Leave
+• Maven Family Planning – provides support through your Parenting journey including egg freezing, fertility, adoption, surrogacy, pregnancy, postpartum, early pediatrics, and returning to work.
+
+And SO much more! We continue to enhance our program, so be sure to check our Benefits page here for the latest. Our team can share more during the interview process!
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Early Warning Services, LLC (“Early Warning”) considers for employment, hires, retains and promotes qualified candidates on the basis of ability, potential, and valid qualifications without regard to race, religious creed, religion, color, sex, sexual orientation, genetic information, gender, gender identity, gender expression, age, national origin, ancestry, citizenship, protected veteran or disability status or any factor prohibited by law, and as such affirms in policy and practice to support and promote equal employment opportunity and affirmative action, in accordance with all applicable federal, state, and municipal laws. The company also prohibits discrimination on other bases such as medical condition, marital status or any other factor that is irrelevant to the performance of our employees.",220K–270K a year,https://www.linkedin.com/jobs/view/sr-director-data-sciences-at-early-warning%C2%AE-4252377251?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Machine Learning Engineer,Jobs via Dice,"Hartford, CT",LinkedIn,"posted_at: 8 hours ago | schedule_type: Full-time | health_insurance: True | dental_coverage: True
+Dice is the leading career destination for tech experts at every stage of their careers. Our client, INNOVIT USA INC, is seeking the following. Apply via Dice today!
+
+Hiring: W2 Candidates Only
+
+Location: USA
+
+Visa: Open to any visa type with valid work authorization in the USA
+
+Experience Required: 6 to 12 years
+
+Level: Mid to Lead positions
+
+Job Summary:
+
+We are seeking a highly motivated Machine Learning Engineer to join our team. You will be responsible for developing, deploying, and optimizing machine learning models that help solve real-world problems. You will collaborate closely with data scientists, engineers, and product teams to turn data into actionable insights and intelligent systems.
+
+Key Responsibilities:
+• Design, build, and deploy scalable machine learning models for classification, regression, recommendation, NLP, or computer vision tasks.
+• Collaborate with data scientists and software engineers to integrate models into production environments.
+• Optimize model performance using techniques like hyperparameter tuning, feature engineering, and data augmentation.
+• Evaluate and monitor deployed models to ensure long-term accuracy and relevance.
+• Stay current with the latest research and industry trends in machine learning and AI.
+• Develop data pipelines and tools for training and validating machine learning models.
+• Write clean, maintainable, and well-documented code.
+
+Required Qualifications:
+• Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, or a related field.
+• Strong proficiency in Python and ML libraries such as scikit-learn, TensorFlow, PyTorch, or XGBoost.
+• Experience working with large datasets and data processing tools (e.g., Pandas, NumPy, SQL, Spark).
+• Solid understanding of machine learning algorithms and statistical modeling techniques.
+• Experience with version control (e.g., Git) and software development best practices.
+
+Preferred Qualifications:
+• Experience deploying ML models using AWS, Azure, or Google Cloud Platform.
+• Familiarity with MLOps practices and tools like MLflow, Kubeflow, or Airflow.
+• Knowledge of deep learning architectures (CNNs, RNNs, Transformers).
+• Exposure to DevOps, CI/CD pipelines, and containerization (Docker, Kubernetes).
+• Publications or contributions to open-source ML projects.
+
+Benefits:
+• Competitive salary and performance bonuses
+• Flexible work schedule and remote options
+• Health, dental, and vision insurance
+• Professional development budget and learning opportunities
+• Friendly and innovative team environment",,https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jobs-via-dice-4252364886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Data Scientist II - Fraud Prevention and Detection,Lensa,"New York, NY",LinkedIn,"posted_at: 14 hours ago | schedule_type: Full-time
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Bank of America, is seeking professionals in New York, NY. Apply via Lensa today!
+
+Data Scientist II - Fraud Prevention and Detection
+
+Charlotte, North Carolina;Plano, Texas; Richmond, Virginia; Fort Worth, Texas; New York, New York; Boston, Massachusetts; Chandler, Arizona; Tampa, Florida; Kennesaw, Georgia; Jacksonville, Florida; Newark, Delaware; Phoenix, Arizona
+
+Job Description
+
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.
+
+Being a Great Place to Work is core to how we drive Responsible Growth. This includes our commitment to being an inclusive workplace, attracting and developing exceptional talent, supporting our teammates’ physical, emotional, and financial wellness, recognizing and rewarding performance, and how we make an impact in the communities we serve.
+
+Bank of America is committed to an in-office culture with specific requirements for office-based attendance and which allows for an appropriate level of flexibility for our teammates and businesses based on role-specific considerations.
+
+At Bank of America, you can build a successful career with opportunities to learn, grow, and make an impact. Join us!
+
+Job Summary
+
+This job is responsible for performing more complex analysis aimed at improving portfolio risk, profitability, performance forecasting, and operational performance for consumer products and related divisions, such as credit cards. Key responsibilities include applying knowledge of multiple business and technical-related topics and independently driving strategic improvements, large-scale projects, and initiatives. Job expectations include working with business counterparts within the Line of Business and partner organizations including Risk and Product teams.
+
+Fraud Prevention and Detection is looking for an energetic and inquisitive experienced data scientist to join our team and help us combat financial crime using graph databases. In this role, you will be expected to work on large and complex data scienceprojects. Collaboratingwith internal strategy, technology, product, and policy partners to deploy advanced analytical solutions with the goal of reducing fraud losses, lowering false positive impacts, improving client experience, and ensuring the Bank minimizes its total cost of fraud.
+
+Responsibilities
+• Link Analysis/Graph analytics to find and mitigate densely connected fraud networks.
+• Developing and tuning graph algorithms to maximize detection of fraud.
+• Work with software developers to create/enhance link analysis process for new fraud detection use cases, and assist with the generation, prioritization, and investigation of fraud rings.
+• Coordinate with stakeholders and tech to deliver process end-to-end, be the gate keeper for issue tracking and remediation.
+• Gather business requirements and translate to technical logic for script development, and design, create and monitor daily report/QA metrics for fraud detection process.
+• Document and prepare attestation response for process and fraud strategy with governance team.
+• Identify, track, and recommend opportunities for process improvement.
+• Coach and mentor peers to improve proficiency in a variety of systems and serve as a subject matter expert on multiple business and technical-related topics.
+• Identify business trends based on economic and portfolio conditions and communicate findings to senior management.
+• Support execution of large-scale projects, such as platform conversions or new project integrations by conducting advanced reporting and drawing analytics-based insights.
+
+Required Qualifications
+• 5+ years of experience in data and analytics is required.
+• Must be proficient with SQL and one of SAS, Python, or Java
+• Critical problem-solving skills including selection of data and deployment of solutions.
+• Proven ability to manage projects, exercise thought leadership and work with limited direction on complex problems to achieve project goals while also leading a broader team.
+• Excellent communication and influencing skills.
+• Thrives in fast-paced and highly dynamic environment.
+• Intellectual curiosity and strong urge to figure out the “whys” of a problem and come up with creative solutions.
+• Model development experience leveraging supervised and unsupervised machine learning (regression, tree-based algorithms, neural networks)
+• Expertise handling and manipulating data across its lifecycle in a variety of formats, sizes, and storage technologies to solve a problem (e.g., structured, semi-structured, unstructured; graph; hadoop; kafka)
+
+Desired Qualifications
+• Advanced Quantitative degree (Masters or PhD)
+• 7+ years of experience; work in financial services is very helpful, with preference to fraud, credit, cybersecurity, or other heavily quantitative areas.
+• Understanding of advanced machine learning methodologies including neural networks, ensemble learning like XGB, and other techniques
+• Proficient with H2O or similar advanced analytical tools
+
+Skills
+• Analytical Thinking
+• Business Analytics
+• Data and Trend Analysis
+• Fraud Management
+• Problem Solving
+• Collaboration
+• Innovative Thinking
+• Monitoring, Surveillance, and Testing
+• Presentation Skills
+• Risk Management
+• Data Visualization
+• Interpret Relevant Laws, Rules, and Regulations
+• Issue Management
+• Oral Communications
+• Written Communications
+
+Shift
+
+1st shift (United States of America)
+
+Hours Per Week
+
+40
+
+Bank of America and its affiliates consider for employment and hire qualified candidates without regard to race, religious creed, religion, color, sex, sexual orientation, genetic information, gender, gender identity, gender expression, age, national origin, ancestry, citizenship, protected veteran or disability status or any factor prohibited by law, and as such affirms in policy and practice to support and promote the concept of equal employment opportunity, in accordance with all applicable federal, state, provincial and municipal laws. The company also prohibits discrimination on other bases such as medical condition, marital status or any other factor that is irrelevant to the performance of our teammates.
+
+To view the ""Know your Rights"" poster, CLICK HERE (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf) .
+
+View the LA County Fair Chance Ordinance (https://dcba.lacounty.gov/wp-content/uploads/2024/08/FCOE-Official-Notice-Eng-Final-8.30.2024.pdf) .
+
+Bank of America aims to create a workplace free from the dangers and resulting consequences of illegal and illicit drug use and alcohol abuse. Our Drug-Free Workplace and Alcohol Policy (“Policy”) establishes requirements to prevent the presence or use of illegal or illicit drugs or unauthorized alcohol on Bank of America premises and to provide a safe work environment.
+
+To view Bank of America’s Drug-free Workplace and Alcohol Policy, CLICK HERE .
+
+Bank of America is committed to an in-office culture with specific requirements for office-based attendance and which allows for an appropriate level of flexibility for our teammates and businesses based on role-specific considerations. Should you be offered a role with Bank of America, your hiring manager will provide you with information on the in-office expectations associated with your role. These expectations are subject to change at any time and at the sole discretion of the Company. To the extent you have a disability or sincerely held religious belief for which you believe you need a reasonable accommodation from this requirement, you must seek an accommodation through the Bank’s required accommodation request process before your first day of work.
+
+This communication provides information about certain Bank of America benefits. Receipt of this document does not automatically entitle you to benefits offered by Bank of America. Every effort has been made to ensure the accuracy of this communication. However, if there are discrepancies between this communication and the official plan documents, the plan documents will always govern. Bank of America retains the discretion to interpret the terms or language used in any of its communications according to the provisions contained in the plan documents. Bank of America also reserves the right to amend or terminate any benefit plan in its sole discretion at any time for any reason.
+
+If you have questions about this posting, please contact support@lensa.com",,https://www.linkedin.com/jobs/view/data-scientist-ii-fraud-prevention-and-detection-at-lensa-4253119201?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Fully Remote ML/AI Engineer - Near Shore,Lensa,Anywhere,LinkedIn,"posted_at: 2 hours ago | work_from_home: True | schedule_type: Full-time
+Lensa is the leading career site for job seekers at every stage of their career. Our client, Insight Global, is seeking professionals. Apply via Lensa today!
+
+Job Description
+
+Located in Canada we're seeking a skilled AI/ML Engineer to develop robust data pipelines on our Google Cloud Data Platform. You'll design, optimize, and deploy solutions to support scientific discovery, using languages like Java, Scala, and Python. Collaborating closely with product managers, you'll ensure the continuous delivery of technology solutions, adhering to Agile and DevOps principles. Responsibilities include designing data pipelines, implementing ETL programs, and maintaining compliance with data governance policies. Your role will involve real-time and batch processing, enforcing data representation standards, and ensuring technical delivery meets security and regulatory standards. You'll work closely with Data Scientists, SREs, and Product Managers to deliver high-quality software and deploy machine learning models using Python and Jupyter notebook.
+
+We are a company committed to creating inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity employer that believes everyone matters. Qualified candidates will receive consideration for employment opportunities without regard to race, religion, sex, age, marital status, national origin, sexual orientation, citizenship status, disability, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to Human Resources Request Form (https://airtable.com/app21VjYyxLDIX0ez/shrOg4IQS1J6dRiMo) . The EEOC ""Know Your Rights"" Poster is available here (https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf) .
+
+To learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/ .
+
+Skills And Requirements
+• Experience with data engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management (Git, Github actions, continuous integrations, testing, and operations)
+• Programing languages - Terraform Java SQL python
+• Experience with Data Ware housing - Red
+• experience with a public cloud - Moving into GCP currently operating in Azure
+• Basic understanding of Shell Scripting
+• Experience with Agile, DevOps & Automation testing, build, deployment, CI/CD Deployments
+• AI/ML Methodologies - experience with distributed data/computing tools (MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL)
+• experience working on real-time data and streaming applications
+• Experienced with visualization tools like SSRS, Excel, PowerBI, Tableau, Google Looker, Azure Synapse null
+
+We are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal employment opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment without regard to race, color, ethnicity, religion,sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military oruniformed service member status, or any other status or characteristic protected by applicable laws, regulations, andordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to HR@insightglobal.com.
+
+If you have questions about this posting, please contact support@lensa.com",,https://www.linkedin.com/jobs/view/fully-remote-ml-ai-engineer-near-shore-at-lensa-4250785115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Sr Data Scientist- Personal Loans,SoFi,"Frisco, TX",LinkedIn,"posted_at: 8 hours ago | salary: 128K–240K a year | schedule_type: Full-time | health_insurance: True
+Employee Applicant Privacy Notice
+
+Who we are:
+
+Shape a brighter financial future with us.
+
+Together with our members, we’re changing the way people think about and interact with personal finance.
+
+We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. Join us to invest in yourself, your career, and the financial world.
+
+The role
+
+SoFi’s Credit team manages credit risk activities for our lending products (Student Loan Refinance, Private Student Loan, Personal Loan, Credit Card, and Mortgage) - including credit strategies/policies for new account origination and portfolio management, collections/recovery strategies and operations, and risk and operational data science and analytics. The team designs data-driven strategies to ensure the growth in lending is consistent with the company’s risk appetite and helps create the products and experiences that put our members’ interests first.
+
+The Credit Strategy Manager will work in the Credit team and have responsibilities to analyze and evaluate data to develop and propose value-added credit risk strategies and models for SoFi’s lending products, including Personal Loan, Student Loan Refinance, Private Student Loan, and Credit Card. The initial focus of the role will be on Personal Loan acquisition but the candidate may get opportunities to work on other lending products in the future.
+
+The candidate will be responsible for independently developing and implementing Personal Loan underwriting strategies that meet our risk appetite, monitoring and analyzing the risk trends within the portfolio to provide insights and recommendations for strategy enhancement opportunities. They will be part of the Credit team with 1LOD responsibilities.
+
+The Credit Strategy Manager will collaborate with cross-functional teams such as Business Units, Operations, Marketing, Finance, Capital Markets, Product, Engineering, Legal and Compliance. Use business knowledge and quantitative and analytical skills to drive revenue, control risk, and provide value to the company and consumers.
+
+The ideal candidate will possess a data-driven analytics background and the strategic acumen to direct a function that draws strategic insights from data using database and statistical analysis tools to inform decisions and support SoFi’s overarching strategic goals relative to loss prevention and profit optimization. They bring new ways of thinking, data sources, technologies, and capabilities to SoFi.
+
+What you’ll do:
+• Innovate… Bring your brightest ideas to building risk strategies. This means you will architect credit underwriting, pre-screen targeting, and risk tier assignment.
+• Data Driven… Your deep analysis will power the future of lending with an optimal real-time data ecosystem – including multi-product internal, bureau, third-party, and alternative data sources and uses.
+• Iterate, learn, innovate… We are all responsible for innovation and must embrace data-driven decisions.
+• Collaborate… Work collaboratively with business partners such as Business Units, Operations, Marketing, Finance, Legal and Compliance to deliver successful business results. Partner closely with implementation teams to accurately deploy new strategies.
+• Control the Risk and Drive Performance Outcomes … Understand credit risk and develop approaches to mitigate loss and responsibly grow revenue. Monitor the performance of strategies and portfolios. Document and communicate results and escalate issues as necessary. Identify gaps/opportunities and drive actions.
+• Grow, Grow, Grow!… Be inspired by dynamic leaders and our rapidly growing business. We want YOU to be an inspired leader of tomorrow, so we are recruiting the best, brightest, and passionately quantitative team members.
+
+What you’ll need:
+• 5+ years of related experience
+• Business acumen and work experience in the consumer lending business (loans or credit cards)
+• Direct experience in the credit strategy analytical life cycle, including strategy and decision tree development, P&L, presentation, implementation validation, and post-implementation monitoring
+• Proven analytical skills in conducting sophisticated analysis using customer performance data, bureau attributes, and other 3rd party variables to solve business problems
+• Proficient skills in Excel, SQL and Python
+• A demonstrated ability to synthesize and communicate analysis to business partners and senior management
+• High motivation to drive results, eager to learn, and able to work collaboratively in a fluid environment
+• Knowledge/skills in analytical and modeling techniques such as decision trees, regression, logistic regression, test design
+• Preferred: Experience in developing credit strategies using innovative data sources such as cash flow or alternative data
+• Preferred: Advanced degree (Master’s or PhD) with a quantitative major such as Statistics, Mathematics, Engineering, or Computer Science
+
+Compensation And Benefits
+
+The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.
+
+To view all of our comprehensive and competitive benefits, visit our Benefits at SoFi page!
+
+SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
+
+The Company hires the best qualified candidate for the job, without regard to protected characteristics.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+New York applicants: Notice of Employee Rights
+
+SoFi is committed to embracing diversity. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
+
+Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.
+
+Internal Employees
+
+If you are a current employee, do not apply here - please navigate to our Internal Job Board in Greenhouse to apply to our open roles.",128K–240K a year,https://www.linkedin.com/jobs/view/sr-data-scientist-personal-loans-at-sofi-4252374404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Principal Data Scientist,KAYAK,"Concord, MA",LinkedIn,"posted_at: 14 hours ago | schedule_type: Full-time | paid_time_off: True
+KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world’s leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We’re also transforming business travel with a new corporate travel solution, KAYAK for Business.
+
+As an employee of KAYAK, you will be part of a travel company that operates a portfolio of global metasearch brands including momondo, Cheapflights and HotelsCombined, among others. From start-up to industry leader, innovation is in our DNA and every employee has an opportunity to make their mark. Our focus is on building the best travel search engine to make it easier for everyone to experience the world.
+
+KAYAK seeks a resourceful, agile data scientist with a strong curiosity about solving challenging machine learning problems across a range of domains and modalities, from recommender systems to reinforcement learning to vision to natural language processing. Good candidates will be well-versed in recent advances in machine learning and will be comfortable quickly testing and iterating on new ideas.
+
+This position is focused on experimental projects and innovation across the business. Leveraging ML/AI, optimization, and our unique data assets, we strive for novel, impactful products and breakthrough improvements. We seek to distinguish our brand, to delight our users, and to help our customers experience the world with confidence and peace-of-mind.
+
+Note: This is a hybrid work role for candidates who can join at least 3 days per week in-office.
+
+In this role, you will:
+• Design and implement your own solutions to modeling problems to improve user experience and enhance business outcomes.
+• Conduct experiments and engage in rapid-prototyping of ideas, making creative use of the data and resources at your disposal.
+• Implement designs in a stable, maintainable, and scalable production-ready form.
+• Extract, process and leverage large data sets to drive successful projects.
+• Engage in group problem-solving, and collaborative team efforts.
+• Communicate and share results in a clear and concise manner.
+• Collaborate with strong researchers, product managers and engineers, and your work will have tangible impact
+• Communicate and share results in a clear and concise manner.
+
+Please apply if you are/have:
+• Deep expertise in math, statistics, systems design, and coding sufficient to lead and solve complex industrial machine learning and data science challenges. A PhD or equivalent in an aligned quantitative field (computer science, statistics, mathematics, operations research, engineering, etc.) is preferred and is a strong indicator of preparation, though not strictly required: what you can do (or rapidly learn to do) is more important.
+• Proven experience applying core concepts and methods in machine/deep learning to real-world data science problems, with a strong track record of measuring and influencing impact at scale.
+• Proficient with current Python machine learning development ecosystems: PyTorch or TensorFlow, pandas/polars, scikit-learn, git, etc.
+
+Bonus Qualifications
+• Solid foundation in software engineering principles, with experience leading or mentoring in individual or team-based technical development.
+• Demonstrated success applying ML/AI in a business environment, including shaping high-level business problems into concrete modeling tasks.
+• Hands-on experience with data engineering practices, including ETLs, relational databases, and large-scale data frameworks such as Trino
+• Prior experience with ML engineering and/or MLOps, including deploying, maintaining, and monitoring machine learning models in production environments.
+
+Do you want to be challenged and have an opportunity to shape our business? If you're interested in exploring new technologies at the intersection of AI, data engineering, computation, and product delivery at scale, then join us to help shape the future of travel!
+
+Benefits And Perks
+• Work from (almost) anywhere for up to 20 days per year
+• Focus on mental health and well-being:
+• Company-paid therapy sessions through SpringHealth
+• Company-paid subscription to HeadSpace
+• Company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!)
+• No meeting Fridays
+• Paid parental leave
+• Generous paid vacation + time off for your birthday
+• Paid volunteer time
+• Focus on your career growth:
+• Development Dollars
+• Leadership development
+• Access to thousand of on-demand e-learnings
+• Travel Discounts
+• Employee Resource Groups
+• Competitive retirement and health plans
+• Free lunch 2 days per week
+• Fun quarterly events such as boat trips, arcades, ski trips, Thursday socials, and more
+
+Diversity, Equity, and Inclusion
+
+At OpenTable/KAYAK, we aspire to be a workplace that fosters inclusion and reflects the diverse communities we serve. Hiring people with different backgrounds and perspectives is critical to innovation and to how we deliver great experiences for our users, partners, and teams. We strive to be an open and welcoming environment so that no matter who you are, you can be yourself.
+
+We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform job responsibilities, and to receive other benefits and privileges of employment. Please contact us to request an accommodation(s).",,https://www.linkedin.com/jobs/view/principal-data-scientist-at-kayak-4253131688?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Deposits Product Decision Scientist,Truist Bank,"Atlanta, GA (+1 other)",Truist Bank Jobs,"posted_at: 4 hours ago | schedule_type: Full-time | paid_time_off: True | dental_coverage: True | health_insurance: True
+The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.
+
+Need Help?
+
+If you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response).
+
+Regular or Temporary:
+Regular
+
+Language Fluency: English (Required)
+
+Work Shift:
+1st shift (United States of America)
+
+Please review the following job description:
+
+The preference is to sit in one of the geographies listed on the requisition. May be flexible based on experience and location.
+
+Act as an individual contributor supporting analytics projects and executing against the objectives of assigned business group. Using an interdisciplinary approach of leveraging concepts from business, applied statistics and math, operations research, information technology, process design and behavioral sciences, the incumbent will work both independently and with internal teammates to produce analytic insights that help the Line of Business (LOB) make informed, data-driven decisions with an objective of driving quantifiable, optimized business results in support of company goals.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Following is a summary of the essential functions for this job. Other duties may be performed, both major and minor, which are not mentioned below. Specific activities may change from time to time.
+1. As a Decision Scientist, focus on high impact, visible analyses and initiatives across multiple business models, covering banking channels, segments, and products.
+2. Partner on target initiatives as assigned; work independently and with internal teammates to drive decision science projects leveraging quantitative analysis techniques, including machine learning, in pursuit of business optimization and impact.
+3. Pursue business outcomes valued through increased revenue and/or efficiency leveraging data-driven insights powered by analytics in support of enhanced decision-making. Focus on continuous improvement in decision science delivery and outcomes in pursuit of business optimization.
+4. Explore and apply tools to solve business challenges and deliver solutions that are timely, accurate, and repeatable.
+5. Exercise sound judgment, risk management, and foster a client centric culture throughout design, development, and deployment practices.
+6. Foster communication and partnership across multiple levels of the organization including engagement with LOB contributors and junior-level managers.
+
+QUALIFICATIONS
+Required Qualifications:
+The requirements listed below are representative of the knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+1. The incumbent must demonstrate a combination of academic aptitude, quantitative skills, business acumen, working knowledge of transaction processing application software, application processing systems, and collection inventory systems, strategic and creative thinking, and excellent written and verbal communications skills
+2. Bachelor’s degree or equivalent education and 3+ years of experience in Banking, Finance, Decision/Data Science, Analytics, Computer Science, Applied Mathematics or Engineering
+3. Must be able to perform in a cross-functional and collaborative team environment focused on supporting business partners with enhanced insights
+4. Innovative and strategic thinker with ability to connect to practical application, providing recommendations on target initiatives, with a strong bias to action and focus on quantifiable business impact
+5. Experience in delivering insights against tight deadlines in a collaborative environment to drive maximum impact
+6. Ability to maintain a high level of competency in statistical and analytical principles, tools, and techniques
+7. Incumbent should have an understanding of various database environments (Snowflake, Hadoop, IBM DB2), technical programming skills (SAS, SQL, Toad), exposure to applied data science tools (R, Python, SAS E-Miner), familiarity with data visualization and BI tools (Tableau, MicroStrategy), and demonstrated proficiency in Microsoft Office Suite (Excel, PowerPoint, Word)
+
+Preferred Qualifications:
+1. Master’s in a quantitative field such as Finance, Mathematics, Analytics, Data Science, Computer Science, or Engineering
+2. 6+ years of experience in Banking, Finance, Decision/Data Science, Analytics, Computer Science, Applied Mathematics or Engineering
+3. 4+ years of decision science/analytics project management experience with a diverse project focus and demonstrated results if candidate lacks a graduate degree
+
+General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site. Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work.
+
+Truist is an Equal Opportunity Employer that does not discriminate on the basis of race, gender, color, religion, citizenship or national origin, age, sexual orientation, gender identity, disability, veteran status, or other classification protected by law. Truist is a Drug Free Workplace.
+
+EEO is the Law Pay Transparency Nondiscrimination Provision E-Verify",,https://www.linkedin.com/jobs/view/deposits-product-decision-scientist-at-truist-4250788815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Senior Data Analyst (Marketing Science),NMQ Digital,United States,LinkedIn,"posted_at: 22 hours ago | schedule_type: Full-time
+ABOUT US
+
+We are a fast-growing, close-knit, dynamic, and successful Digital Services Company that specializes in providing support to large multinational companies for SEO, Product & Web Content Management, Social Media Management, Performance Marketing, E-Commerce Management, CRM & E-Mail Marketing Automation, DX & Development, Data Management & Analytics, Project Management, Digital Consultancy, and Recruitment.
+
+As a multinational Dutch company, we have offices in Amsterdam, Istanbul, Lisbon, Kuala Lumpur, Bogota & Portland. With our exceptionally talented & diverse team, and our A+ client portfolio, the world is our oyster!
+
+We are looking for a Senior Data Analyst (Marketing Science) to join our team.
+
+RESPONSIBILITIES
+• Design and execute marketing incrementality measurement plans using holdout tests, randomized control trials, and econometric models to quantify true channel impact.
+• Develop and optimize multi-touch attribution frameworks to accurately assign credit across cross-channel marketing campaigns, guiding media spend decisions.
+• Architect data integration pipelines consolidating data from digital, TV, retail, CRM, and web analytics platforms to enable holistic media analysis.
+• Define and maintain ETL processes for data cleaning, transformation, and structuring, ensuring data accuracy and readiness for advanced analytics.
+• Validate marketing models regularly, updating methodologies to adapt to changing consumer behaviors and market conditions.
+• Build and maintain automated dashboards and reports that deliver real-time insights on campaign effectiveness and marketing ROI.
+• Collaborate with marketing, sales, and data engineering teams to align incrementality testing and attribution models with overall business goals.
+• Utilize statistical and econometric techniques (e.g., MMM, Bayesian inference, causal inference) to measure marketing lift and optimize budget allocation.
+• Provide actionable recommendations to improve marketing efficiency and maximize return on ad spend (ROAS) and customer acquisition cost (CAC) efficiency.
+• Document marketing science methodologies, data workflows, and model assumptions to ensure transparency and reproducibility.
+• Mentor junior analysts on marketing incrementality, attribution modeling, and data integration best practices.
+
+QUALIFICATIONS
+• Bachelor’s degree in Marketing Analytics, Statistics, Economics, Data Science, or a related field; advanced degree preferred.
+• 2–5 years of experience in marketing analytics, media effectiveness measurement, or marketing science roles.
+• Strong expertise in marketing incrementality measurement techniques such as randomized control trials (RCTs), holdout experiments, and Marketing Mix Modeling (MMM).
+• Experience designing and implementing multi-touch attribution (MTA) models beyond last-touch attribution, including time decay and data-driven models.
+• Proficient in SQL and statistical programming languages (Python or R) for data integration, modeling, and automation.
+• Knowledge of ETL workflows and data warehousing tools (e.g., BigQuery, Snowflake, dbt).
+• Skilled in integrating and analyzing data across multiple marketing platforms (Google Ads, Meta, TV ratings, CRM, POS, web analytics).
+• Ability to apply econometric and causal inference methods to validate marketing incrementality and campaign effectiveness.
+• Experience building interactive dashboards with Power BI, Tableau, Looker, or similar tools for real-time marketing performance tracking.
+• Strong analytical, problem-solving, and communication skills; able to translate complex data insights into actionable marketing strategies.
+• Understanding of marketing KPIs including CAC, ROAS, MER, customer lifetime value (CLV), and campaign lift metrics.
+
+WHAT WE OFFER
+
+Mental Health & Support💆🏻♀️: Free company subscription to our mental health & support partner ‘’Openup’’.
+
+Referral Program👫🏻: Our referral program ‘’Friends2Work’’ encourages our employees to refer their friends followed by a cash award once they are hired.
+
+Self-Improvement💪🏻: Access to numerous online courses and training in our own in-house training platform NMQ Academy & access to our exclusive Mentorship Program provided by our brilliant senior peers.
+
+Team Environment👑: We give you to opportunity to work with global brands together with a fun, diverse, and dynamic team and become a part of a global success story!
+
+If you are interested in joining our team, please apply with your CV in English.
+
+By applying to this job advertisement, you accept that you have shared your personal data within the scope of the clarification text we have provided at www.nmqdigital.com
+
+NMQ Digital is proud to be an equal-opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.
+
+Don't be discouraged if you feel that you don’t fully meet every single one of the requirements for a particular role, there is always room for growth in NMQ!",,https://www.linkedin.com/jobs/view/senior-data-analyst-marketing-science-at-nmq-digital-4250313372?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Senior Data Engineer / Data Curator,TSMC,"Phoenix, AZ",Taiwan Semiconductor Manufacturing - TSMC,"posted_at: 12 hours ago | schedule_type: Full-time | health_insurance: True | paid_time_off: True | dental_coverage: True
+Senior Data Engineer / Data Curator
+
+A job at TSMC Arizona offers an opportunity to work at the most advanced semiconductor fab in the United States. TSMC Arizona’s first fab will operate it’s leading-edge semiconductor process technology (N4 process), starting production in the first half of 2025. The second fab will utilize its leading edge N3 and N2 process technology and be operational in 2028. The recently announced third fab will manufacture chips using 2nm or even more advanced process technology, with production starting by the end of the decade. America’s leading technology companies are ready to rely on TSMC Arizona for the next generations of chips that will power the digital future.
+
+As a Senior Data Engineer in the AI Data Curation track, you will ensure that the data powering our AI models is high-quality, well-organized, and fit for use in model training and deployment. You will play a key role in designing and maintaining scalable data pipelines, ensuring that data is clean, relevant, and aligned with ethical and compliance standards.
+
+Responsibilities:
+• Design and implement data pipelines for processing, cleaning, and curating large datasets used in model training and fine-tuning.
+• Automate data cleaning processes (e.g., removing noise, duplicates, irrelevant content) and ensure datasets are appropriately labeled and structured.
+• Collaborate with model teams to ensure data aligns with model requirements and performance goals.
+• Assess and mitigate bias in datasets, ensuring that models are trained on diverse and representative data.
+• Manage data storage and retrieval strategies, ensuring scalability and data consistency across different environments.
+• Conduct regular audits to ensure data integrity, privacy, and security compliance.
+
+Minimum Qualifications/Requirements:
+
+Education: Minimum degree required: Bachelor's degree in Computer Science, Data Science, or a related field.
+
+Technical Skills:
+• 5+ years of experience in data engineering, data wrangling, or data curation, particularly in machine learning or AI-driven environments.
+• Strong proficiency in Python (Pandas, NumPy) and SQL for data manipulation and querying.
+• Familiarity with cloud-based data storage (AWS S3, Google Cloud Storage, etc.) and distributed systems for managing large datasets.
+• Experience with data annotation tools and platforms for manual or semi-automated labeling.
+• Experience with NLP data formats, such as JSONL, text, or embeddings, and an understanding of tokenization.
+• Experience managing data pipelines with tools like Apache Kafka, Apache Airflow, or similar ETL tools.
+• Strong knowledge of AI ethics, data privacy, and compliance standards (GDPR, CCPA, etc.).
+• Bonus: Experience with vector databases and indexing for LLMs (e.g., FAISS, Pinecone).
+
+Interpersonal Skills:
+• Communication
+• Computer proficiency
+• Presentation skills
+• Listening
+• Teamwork
+
+Candidates must be willing and able to work on-site at our Phoenix Arizona facility.
+
+As a valued member of the TSMC family, we place a significant focus on your health and well-being. When you are at your best-physically, mentally, and financially-our company is at its best. We offer a comprehensive and competitive benefits program that provides the resources you need to help you manage your health and achieve your goals across many areas of your life. This includes a variety of medical, dental and vision plan offerings you can choose from that best fit your and your family’s needs. Additionally, TSMC provides income-protection programs to financially assist you should you experience an injury or illness, and a 401(k)-retirement savings plan to help you secure your financial future. TSMC also offers competitive paid time-off programs and paid holidays allowing you to recharge and spend time with your family and loved ones.
+
+Work Location: 5088 W. Innovation Circle, Phoenix, AZ 85083
+
+TSMC is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other protected characteristic. We encourage all qualified individuals to apply, and we welcome applications from individuals with diverse backgrounds and experiences. Candidates must be able to perform the essential functions of the job with or without a reasonable accommodation. If you need a reasonable accommodation as part of this application process, please contact P_LOA@tsmc.com.
+
+#LI-Onsite",,https://www.linkedin.com/jobs/view/senior-data-engineer-data-curator-at-tsmc-4212873016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+"Online Ms in Data Science Learning Facilitator, Office of the Provost",Boston University,"Boston, MA",HigherEdJobs,"posted_at: 18 hours ago | schedule_type: Full-time
+ONLINE MS IN DATA SCIENCE LEARNING FACILITATOR, Office of the Provost
+
+Job Description
+ONLINE MS IN DATA SCIENCE LEARNING FACILITATOR, Office of the Provost
+
+Category
+Charles River Campus --> Administrative/Support/Clerical
+Job Location
+BOSTON, MA, United States
+Tracking Code
+25500889690616
+Posted Date
+6/17/2025
+Salary Grade
+Grade 47
+Position Type
+Full-Time/Regular
+
+As a member of the teaching team, the LF Mod lead plays a pivotal role in managing the overall course delivery of the respective Mod in close collaboration with the Mod faculty and other LF Mod team members. The lead coordinates efforts with key stakeholders, including the Mod faculty, learning designers (LDs), student success (SS), LF Director and program leadership, and provides overall guidance and project management to the Mod LFs. Due to the on-campus presence of OMBA faculty and weekly Live sessions broadcast from the OMBA studios in Boston, MA, in-person presence of the lead LF may be warranted to meet business needs and may expand or contract as needed. The Lead Learning Facilitator will also manage the annual performance evaluation process for their Mod.
+
+Key attributes for an effective lead include:
+• Innovative and solution-oriented mindset focused on the respective Mod, yet with the capacity to understand across Mod needs for delivery and consistent student experience outcomes.
+• Effective relationship management across the key stakeholders; Demonstrates appropriate temperament and aptitude to work with various stakeholders in a fast-paced virtual environment.
+• Ability to provide mentoring, training and ongoing guidance of Mod team LF members to instill a culture of fairness, dignity, transparency, and respect.
+• Well-versed and knowledgeable on the Mod content.
+• Experience working in a student-centric environment and the ability to instill a culture that focuses on student needs and elevates student learning.
+Job Functions:
+
+Course Delivery (40%)
+• Collaborate with Mod lead faculty to ensure successful delivery of the Mod.
+• Serve as the first point of escalation for other LFs for student cases.
+• Participate and report in all regular Mod delivery meetings about course status and needs
+• Provide timely support on course content to 100+ students.
+• Respond to student questions and concerns in a timely and efficient manner in alignment with Questrom's student-centric culture.
+• Hold regular online office hours to meet with individual students and teams.
+• Participate/lead mod/pod wide open office hours as needed.
+• Monitor and engage in student discussion forums on a weekly basis.
+• Collaborate with faculty and studio production team to plan and manage Mod Live sessions.
+• Propose and implement delivery initiatives geared toward student engagement.
+Learner feedback and grading (40%)
+• Oversee end of Mod grade computations and entry/release in MyBU.
+• Perform mid-mod grade checks.
+• Grade assignments.
+• Provide detailed feedback to students on their assignments and overall MOD performance.
+• Contribute to end of Mod grading computations as planned by the LF Mod Lead.
+• Contribute to daily operations including late submissions checks, publishing grades, etc.
+Mod Improvement (10%)
+• Oversee timely resolution of post-launch issues on an ongoing basis.
+• Analyze student surveys, reported feedback form students/LFs/others, SF cases, course questions, Yellowdig participation, etc. for future improvement and retrospectives.
+• Work with lead Mod faculty, OMBA Director of Program Innovation, and BUV learning designers/course operations on annual mod revision process.
+• Report post-launch issues (defects and enhancements) as per the established process.
+• Share feedback for continuous improvement of the course content.
+Administrative (10%)
+• Lead weekly LF Mod Team meetings.
+• Meet 1:1 regularly with each LF on the team and the Executive Director.
+• Manage LF team members and work with Executive Director on the annual performance evaluation process for their team.
+• Perform weekend on-call duties as necessary, representing your Learning Facilitator MOD team to the broader OMBA delivery team (weekend on-call is not every or all weekends).
+• Identify opportunities and define processes to improve operations.
+• Provide regular status updates in the team project management dashboard.
+• Other relevant duties that support student learning.
+Required Skills
+
+Minimum Competencies
+• Must possess a conferred master's degree (e.g. MBA, MBA equivalent or related advanced management credential). A business-related graduate degree is preferred.
+• Must be familiar with business concepts including but not limited to managerial economics, leadership, finance, ethics, data analysis, innovation, organizational behavior, risk, operations, etc. and be willing to learn to be able to effectively assist students with course content. (The subject-matter requirement may vary depending on the Mod.)
+• 5+ years of experience in a delivery role such as teaching, or project/ program/ product management.
+• Must be self-motivated with a start-up mindset towards continuous improvement.
+• Ability to effectively collaborate in a remote environment and quickly learn new tools and technologies. Solution-oriented team player with a demonstrated track record of transparency and proactivity in meeting organizational goals.
+• Demonstrated interpersonal and customer support skills.
+• An effective communicator who is open to giving and receiving constructive feedback.
+• Experience managing competing priorities and working with multiple constituencies (I.e. faculty, students, colleagues, and third-party vendors).
+• Adaptable and comfortable working in a fluid environment.
+• Ability and desire to mentor or coach peers and even other teams if required.
+Desired Competencies
+• Experience as a Learning Facilitator or a similar role.
+• Hands-on experience delivering online learning, preferably in a scaled environment.
+• Experience working with adult learners.
+• Experience with Salesforce or a similar CRM system.
+• Experience using a learning management system (LMS).
+• Experience creating process documentation and best practices.
+We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, natural or protective hairstyle, religion, sex, age, national origin, physical or mental disability, sexual orientation, gender identity, genetic information, military service, pregnancy or pregnancy-related condition, or because of marital, parental, or veteran status. We are a VEVRAA Federal Contractor.
+
+Required Skills
+
+Job Location: BOSTON, MA
+Position Type: Full-Time/Regular
+Salary Grade: Grade 47
+
+To apply, visit https://jobs.silkroad.com/BU/External/jobs/315529
+
+jeid-a23ba577f9d55d439ca86d5adcbe325f",,https://www.linkedin.com/jobs/view/online-ms-in-data-science-learning-facilitator-office-of-the-provost-at-boston-university-4252894440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+"Data Scientist II, Field Telemetry",Seagate Technology,"Shakopee, MN",LinkedIn,"posted_at: 5 hours ago | salary: 100,380.80–143,549.13 a year | schedule_type: Full-time | dental_coverage: True | paid_time_off: True | health_insurance: True
+About Our Group
+
+We are part of the Advanced Reliability group within the Product Assurance Engineering organization. The Advanced Reliability group plays a key role in protecting our customers and company by pursuing test and field software solutions, field analytics, and technology staging. Under this umbrella, the Analytics team makes key contributions by accelerating learning cycles during the product launch phase, closing the feedback loop using field telemetry data, and supporting key customers with log-based fleet health management innovations.
+
+About The Role - You Will
+• Designs, develops, and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources.
+• Generates actionable insights and solutions for client services and product enhancement.
+• Interacts with product and service teams to identify questions and issues for data analysis and experiments.
+• Develops and codes software programs, algorithms, and automated processes to cleanse, integrate, and evaluate large datasets from multiple disparate sources.
+• Identifies meaningful insights from large data and metadata sources.
+• Interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+• This is a product engineering role in which employees work with multiple types of business data.
+• May be internal operations-focused or external client-focused, working in conjunction with Professional Services and outsourcing functions.
+
+About You
+• You are driven to understand how cloud storage providers use our products and how data can reveal opportunities to improve their experience.
+• You communicate clearly and effectively with global teams, both in writing and in conversations.
+• You are skilled at gathering, cleaning, and analyzing data from diverse sources.
+• You look beyond patterns to understand the underlying drivers behind data behavior.
+• You regularly apply statistical methods to derive insights and test hypotheses.
+• You have familiarity with reliability modeling approaches, such as Weibull analysis.
+• You translate data into clear, actionable recommendations that guide decisions.
+
+Your Experience Includes
+• Bachelor's Degree in Computer Science or Mechanical or Electrical Engineering or related field, and 2+ years of experience, or Master’s degree in Computer Science or Mechanical or Electrical Engineering or related field and 0+ years of experience or equivalent education and experience.
+• Understanding of HDD subsystems and how they interact, with failure analysis experience considered a plus.
+• Strong background in data analysis, particularly with large datasets.
+• Ability to assemble, process, and visualize data using Python, SAS JMP, SQL, or JavaScript.
+• Familiarity with Seagate's internal data storage tools, locations, and infrastructure.
+
+You Might Also Have
+• Experience guiding cross-functional technical experts to collaborate and reach consensus.
+• Experience in customer technical communication and issue resolution.
+
+The estimated base salary range for this position is $80,766.40 - $115,498.24. The individual salary is based on work location and additional factors, including job-related skills, experience, and relevant education or training.
+
+Seagate offers comprehensive benefits to its eligible employees, including, but not limited to eligibility to participate in discretionary bonus program, medical, dental, vision, and life insurance, short-and long-term disability, 401(k), employee stock purchase plan, health savings account, dependent care, and healthcare spending accounts. Seagate also offers paid time off, including 12 holidays, flexible time off provided pursuant to Seagate policy, a minimum of 48 hours of paid sick leave, and 16 weeks of paid parental leave. The benefits for this position are based on a full-time schedule for a full calendar year and may differ depending on work location.
+
+Location:
+
+This position is an onsite role and can be based out of our Shakopee, MN or Longmont, CO campus.
+
+Our Shakopee campus is located 25 minutes southwest of Minneapolis in a setting with a rural vibe – it overlooks a horse racing track and stables, yet it has great entertainment venues close by as well. With wide-open spaces, the campus has plenty of space for running, biking, shooting some hoops or playing volleyball over lunch. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, tournaments, and group workouts. Hungry? Seagate offers an on-site café with freshly sourced foods and specialty coffees, or if you prefer, drive to one of many restaurants just minutes away.
+
+Our Longmont product-design campus is nestled against the foothills with exceptional views of the Rocky Mountains. Here at work, you can grab breakfast and lunch in the on-site cafeteria or get an afternoon espresso, prepared by a professional barista. Our 1,500+ employees enjoy an active on-site experience from sporting activities (get in a few laps at lunch on our 1-mile walking path around campus, play ping-pong or volleyball, or stop in our 24- hour fitness center for a group or individual workout) to community service and many employee resource groups including Pride! Women’s Leadership Network and a Young Professionals Network.
+
+Location: Shakopee, United States, Longmont, United States
+
+Travel: Up to 10%","100,380.80–143,549.13 a year",https://www.linkedin.com/jobs/view/data-scientist-ii-field-telemetry-at-seagate-technology-4234447425?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic

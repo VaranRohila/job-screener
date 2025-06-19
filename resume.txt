@@ -1,0 +1,32 @@
+EXPERIENCE Senior Data Scientist, SageSure Capital Holdings, Inc. 01/2023 – Present
+Post-Hurricane Damage Detection | Computer Vision
+• Spearheaded development of a post-hurricane damage detection model using Nearmap aerial imagery and PyTorch, achieving 74% overall accuracy, which accelerated triaging of 30% claims and reduced claims processing time.
+• Collaborated with Claims and Catastrophe Response teams to define model success criteria and integrate outputs into adjuster workflows; presented findings in stakeholder reviews to drive adoption across high-risk regions.
+LLMs & Document Intelligence | NLP
+• Automated structured data extraction from 500K+ insurance declaration PDFs using LLMs (OpenAI API), AWS Lambda, and SQL pipelines; reduced manual workload by 40 hours/week in contractor labor.
+• Designed and led implementation of a Slack-based onboarding chatbot using fine-tuned LLaMA-2 and RAG with fuzzy glossary search; decreased onboarding time by 20% across new tech hires.
+• Productionized a policy cancellation reason classifier (IBERTA) using BERT, cosine similarity, and gibberish filtering; achieved 81% accuracy and improved minority-class recall by 25%, enabling early churn detection by Customer Success teams.
+Leadership & Mentorship
+• Provided strategic mentorship to Summer 2024 intern on the post-hurricane damage project, ensuring labeling quality and efficient use of SageMaker Ground Truth for image annotation.
+• Regularly collaborated with product, engineering, and claims stakeholders, driving alignment between model outputs and business decision workflows.
+Data Science Intern, Bombora 05/2022 - 12/2022
+• Improved downstream classifier AUC from 0.82 to 0.87 by redesigning intent topic hierarchy using BERT embeddings and agglomerative clustering, enhancing product precision for B2B client segmentation.
+• Collaborated with Product and Engineering teams to integrate improved hierarchy into intent scoring products.
+Graduate Research Assistant, Stevens Institute of Technology 01/2022 - 07/2022
+• Developed Multimodal Embedding Initialized Bottleneck Sharing (MEIBS), a novel fake news detection model combining deep learning and cross-modal representation learning, outperforming state-of-the-art by 2–3% on Twitter, Weibo, and GossipCop datasets. (Thesis Link)
+Hanlon Financial Lab Assistant, Stevens Institute of Technology 10/2021 - 12/2021
+• Maintained and secured Hanlon Servers against DoS attacks; conducted research on reinforcement learning techniques.
+Research Intern, Stevens Institute of Technology 06/2021 - 09/2021
+• Developed an evidence extraction system for factual claim verification using structured/unstructured Wikipedia data; classified claims as Supported, Refuted, or Not Enough Info (NEI).
+PAPERS Towards Framework for Edge Computing Assisted COVID-19 Detection using CT-scan Images
+ICC 2021-IEEE International Conference on Communications, 2021 (First Author)
+Deep Learning Assisted COVID-19 Detection using full CT-scans
+Internet of Things (2021), p. 100377, Elsevier (First Author)
+EDUCATION Stevens Institute of Technology, Hoboken, NJ 08/2021 – 12/2022
+Master of Science in Applied Artificial Intelligence
+GPA: 3.80; Honors: Provost’s Master’s Fellowship, ECE Research Scholar 2022
+National Institute of Technology Hamirpur, H.P., India 08/2017 – 05/2021
+Bachelor of Technology in Computer Science
+SKILLS Languages & Tools: Python, SQL, PyTorch, TensorFlow, AWS (Lambda, S3), GCP, Azure
+Techniques: Machine Learning, NLP, Computer Vision, LLMs, Prompt Engineering, Clustering, Embeddings
+Infra: SageMaker, Streamlit, Spark, Git, Docker, REST APIs
