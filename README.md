@@ -52,7 +52,7 @@ Each job is scored on the following criteria (with respective weights):
 2. Ensure your `.env` file contains valid API keys.
 3. Run the script:
    ```bash
-   python script_name.py
+   python main.py
     ```
 4. Output Excel will be saved in the outputs/ folder with today's date in the filename.
 
