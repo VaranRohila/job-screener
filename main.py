@@ -5,14 +5,17 @@ import pandas as pd
 
 from dotenv import load_dotenv
 import json
+import argparse
 
 import glob
 
 from serpapi import GoogleSearch
 from openai import OpenAI
+from docx import Document
 
 from tqdm import tqdm
 
+from prompt import RATING_TEMPLATE, COVER_LETTER_TEMPLATE
 
 # SETTINGS
 SERP_PAGE_LIMIT = 6
@@ -24,6 +27,8 @@ SERP_FILENAME = f"serp_{TODAY}.csv"
 OUTPUT_DIR = "outputs"
 OUTPUT_FILENAME = f"output_{TODAY}.xlsx"
 
+COVER_LETTER_DIR = "cover_letters"
+COVER_LETTER_TODAY = COVER_LETTER_DIR + f'/{TODAY}'
 
 # Load environment variables from .env file
 load_dotenv()
@@ -87,84 +92,27 @@ def serp_run():
                     data["salary"].append(None)
 
             # Set next page token
-            next_page_token = results["serpapi_pagination"]["next_page_token"]
+            if 'serpapi_pagination' in results:
+                next_page_token = results["serpapi_pagination"]["next_page_token"]
+            else:
+                break
+
+        # Development break
+        if args.dev: break
 
     # Save DataFrame
     df = pd.DataFrame(data)
-    print(len(df))
     df.to_csv(SERP_FOLDER + "/" + SERP_FILENAME, index=False)
 
-def openai_run():
+def openai_rating_run():
     df = pd.read_csv(SERP_FOLDER + "/" + SERP_FILENAME)
     with open("resume.txt", "r") as f:
         resume_input = f.read()
-    
-    # Load prompt base template
-    prompt_template = """
-    You are an expert job-matching assistant. Your task is to evaluate how well a given job description matches a candidate's resume using weighted criteria, reflecting what matters most to the candidate.
 
-    The candidate is targeting **Senior Data Scientist roles**, has **2 years of experience**, and is looking for **individual contributor (IC) roles only**, with a **total compensation of $240,000 or more**. Analyze the match between the resume and job description using the following weighted criteria:
-
-    ---
-
-    🔍 Evaluation Criteria (with Weights):
-    1. Role Fit (Responsibilities & Scope) – Weight: 10  
-    2. Experience Requirement (Must require at most 2 years experience with a Master's degree) – Weight: 10  
-    3. Growth & Learning Opportunities – Weight: 9  
-    4. Role Level (Must be IC; not managerial or senior managerial) – Weight: 9  
-    5. Team & Manager Quality (if mentioned) – Weight: 8  
-    6. Company Stability & Mission Fit – Weight: 8  
-    7. Compensation (Target: $240K+, estimate based on role and company if not present) – Weight: 8  
-    8. Work-Life Balance & Culture – Weight: 7  
-    9. Technical Stack Relevance – Weight: 6  
-    10. Location / Remote Flexibility – Weight: 5  
-    11. Perks & Benefits – Weight: 3  
-    12. Job Description Quality – Weight: 2
-    13. Distance from current location, less is better (Jersey City, NJ) - Weight: 7
-    14. Visa Sponsorship (H1B sponsorship required, give no sponsorship and US citizen required 0) - Weight: 10
-
-    All ratings must be in the range of **1 to 10**, where 1 is very poor alignment and 10 is perfect alignment.
-
-    ---
-
-    📥 Inputs:
-    - Resume: {resume_input}  
-    - Job Description: {job_description}  
-
-    ---
-
-    📤 Output Format:
-    Respond **only with a valid JSON object** in the format below:
-
-    ```json
-    {{
-    "criteria_ratings": {{
-        "role_fit": {{"rating": X, "weight": 10}},
-        "experience_requirement": {{"rating": X, "weight": 10}},
-        "growth_opportunities": {{"rating": X, "weight": 9}},
-        "role_level": {{"rating": X, "weight": 9}},
-        "team_quality": {{"rating": X, "weight": 8}},
-        "company_stability_mission": {{"rating": X, "weight": 8}},
-        "compensation": {{"rating": X, "weight": 8}},
-        "work_life_balance": {{"rating": X, "weight": 7}},
-        "tech_stack": {{"rating": X, "weight": 6}},
-        "location_remote": {{"rating": X, "weight": 5}},
-        "benefits": {{"rating": X, "weight": 3}},
-        "jd_quality": {{"rating": X, "weight": 2}},
-        "distance_jc": {{"rating": X, "weight": 7}},
-        "visa_sponsorship": {{"rating": X, "weight": 10}},
-    }},
-    "reasoning": "2-3 lines, at most 150 words, summarizing the overall fit and justification for the final score."
-    }}
-    ```
-
-    Respond only with a valid JSON object. Do not include any text, Markdown code block, or backticks.
-    """
-
-    print(f"[INFO] Running prompt for {len(df)} jobs")
+    print(f"[INFO] Running rating prompt for {len(df)} jobs")
     for i, row in tqdm(df.iterrows(), total=len(df)):
         # Fill in the prompt
-        filled_prompt = prompt_template.format(resume_input=resume_input, job_description=row["description"])
+        filled_prompt = RATING_TEMPLATE.format(resume_input=resume_input, job_description=row["description"])
 
         # Call the API
         response = client.chat.completions.create(
@@ -210,6 +158,9 @@ def openai_run():
         final_score = total_score / total_weight if total_weight else 0
         df.at[i, "final_score"] = round(final_score, 2)
 
+        # Development break
+        if args.dev: break
+
     # Current columns
     cols = list(df.columns)
 
@@ -221,19 +172,87 @@ def openai_run():
     df = df.sort_values(by="final_score", ascending=False, na_position="last")
     df.to_excel(OUTPUT_DIR + "/" + OUTPUT_FILENAME, sheet_name="Job_Match_Results", index=False)
 
+def openai_cover_letter_run():
+    df = pd.read_excel(OUTPUT_DIR + "/" + OUTPUT_FILENAME, sheet_name="Job_Match_Results")
+    with open("resume.txt", "r") as f:
+        resume_input = f.read()
+    
+    # Filter df
+    if not args.dev:
+        df = df[
+            (df['final_score'] > 6) &
+            (df['visa_sponsorship_rating'] > 0)
+        ]
+
+    print(f"[INFO] Running cover letter prompt for {len(df)} jobs")
+    print(f"[INFO] Making dirs for cover letters")
+    os.makedirs(COVER_LETTER_DIR, exist_ok=True)
+    os.makedirs(COVER_LETTER_TODAY, exist_ok=True)
+    for i, row in tqdm(df.iterrows(), total=len(df)):
+        # Fill in the prompt
+        filled_prompt = COVER_LETTER_TEMPLATE.format(
+            name_input=os.environ.get("NAME"),
+            email_input=os.environ.get("EMAIL"),
+            resume_input=resume_input, 
+            job_description=row["description"]
+        )
+
+        # Call the API
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": filled_prompt}
+            ],
+            temperature=0.1  # lower temperature for more consistent structure
+        )
+
+        # Extract and parse the JSON output
+        response_text = response.choices[0].message.content
+        # Create a new Word document
+        doc = Document()
+
+        # Add the cover letter text (you can split into paragraphs for formatting)
+        for paragraph in response_text.split('\n\n'):
+            doc.add_paragraph(paragraph)
+        
+        # Save the document
+        name = os.environ.get('NAME')
+        name = ''.join(name.split(' '))
+        title = ''.join(row['title'].split(' '))
+        company = ''.join(row['company_name'].split(' '))
+        doc.save(COVER_LETTER_TODAY + '/' + f"{name}_CoverLetter-{title}_{company}.docx")
+
+        # Development break
+        if args.dev: break
+
 
 if __name__ == "__main__":
+    # Parser setup
+    parser = argparse.ArgumentParser(description="AI-powered Job Screener")
+
+    # Add arguments
+    parser.add_argument('--dev', type=bool, required=False, help='Development Flag', default=False)
+    parser.add_argument('--serp_override', type=bool, required=False, help='SERP Override Flag', default=False)
+
+    args = parser.parse_args()
+
     print("[INFO] Running SERP extract...")
     serp_files = glob.glob(SERP_FOLDER + "/*.csv")
-    serp_run_flag = False
+    serp_run_flag = True
     for file in serp_files:
         if file.split("_")[-1].split(".")[0] == TODAY:
-            serp_run_flag = True
+            serp_run_flag = False
     
-    if serp_run_flag:
-        print("[INFO] Serp already ran today, skipping..")
-    else:
+    if serp_run_flag or args.serp_override:
         serp_run()
-    print("[INFO] Running OpenAI model...")
-    openai_run()
+    else:
+        print("[INFO] Serp already ran today, skipping..")
+
+    print("[INFO] Running OpenAI Rating prompt...")
+    openai_rating_run()
+    print("[INFO] Save successful!")
+
+    print("[INFO] Running OpenAI Cover Letter prompt...")
+    openai_cover_letter_run()
     print("[INFO] Save successful!")

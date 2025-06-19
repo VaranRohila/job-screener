@@ -1,4 +1,4 @@
-# Job Matching Automation Script
+# AI-Powered Job Matching Automation Script
 
 This script automates the process of sourcing job postings from Google Jobs via SerpAPI, and then evaluates each job's suitability for a specific candidate profile using OpenAI's GPT model. It outputs a ranked list of job matches based on a weighted scoring system and saves the results in a formatted Excel file.
 
