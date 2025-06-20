@@ -1,8 +1,18 @@
-# Job Matching Automation Script
+# AI-Powered Job Matching Automation Script
 
 This script automates the process of sourcing job postings from Google Jobs via SerpAPI, and then evaluates each job's suitability for a specific candidate profile using OpenAI's GPT model. It outputs a ranked list of job matches based on a weighted scoring system and saves the results in a formatted Excel file.
 
 ---
+
+## TODOs
+- Update the prompt to improve `visa_sponsorship` rating.
+- Add poetry support for managing python environment.
+- Add minimal Taipy GUI Dashboard
+  - Adding keywords to the google jobs search
+  - Daily job frequency
+  - Control of all params from the UI
+  - Accessible links of top jobs from UI
+  - Cover letter creation on demand
 
 ## 🔧 Features
 
@@ -15,8 +25,17 @@ This script automates the process of sourcing job postings from Google Jobs via 
 ---
 
 ## 📋 Requirements
-
 - Python 3.7+
+- Poetry (for dependency management and environment setup).  
+  Install Poetry by running:
+  ```bash
+  curl -sSL https://install.python-poetry.org | python3 -
+  ```
+  or follow the [Poetry installation guide](https://python-poetry.org/docs/#installation).
+- Install environment dependencies:
+  ```bash
+  poetry install
+  ```
 - A `.env` file with the following environment variables:
   - `SERP_KEY`: SerpAPI key
   - `OPENAI_API_KEY`: OpenAI key
@@ -42,7 +61,7 @@ Each job is scored on the following criteria (with respective weights):
 11. Perks & Benefits – 3  
 12. Job Description Quality – 2  
 13. Distance from Jersey City, NJ – 7  
-14. Visa Sponsorship (H1B required) – 10
+14. Visa Sponsorship (H1B required) – 6
 
 ---
 
@@ -52,7 +71,7 @@ Each job is scored on the following criteria (with respective weights):
 2. Ensure your `.env` file contains valid API keys.
 3. Run the script:
    ```bash
-   python main.py
+   poetry run python -m src.main
     ```
 4. Output Excel will be saved in the outputs/ folder with today's date in the filename.
 
