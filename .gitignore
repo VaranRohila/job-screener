@@ -1,2 +1,6 @@
+__pycache__
 .env
 cover_letters
+outputs
+serp_extract
+test.ipynb
